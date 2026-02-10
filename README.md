@@ -61,6 +61,12 @@ docker compose up --build
 
 Ce projet est distribué sous la **Licence MIT**.
 
----
+Copyright © 2026 Cha130
+
+All rights reserved.
+
+This repository is provided for viewing purposes only.
+No permission is granted to copy, modify, distribute, or use this code in any form.
+
 
 *Projet collaboratif réalisé dans le cadre scolaire — Allier technologie et transition écologique.*
